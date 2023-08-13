@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asma Bouraoui</h1>
 <h3 align="center">A passionate business intelligence engineer student</h3>
-<h4 img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/421016265163019831/" >
+<h4 img align="right" alt="Coding" width="400" src="https://cdn.pixilart.com/photos/orginal/6cd473f2bd5f695.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmabouraoui&label=Profile%20views&color=0e75b6&style=flat" alt="asmabouraoui" /> </p>
 
 - 🔭 I’m currently working on **Google data analytics certificate**
