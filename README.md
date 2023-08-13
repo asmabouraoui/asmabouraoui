@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asma Bouraoui</h1>
 <h3 align="center">A passionate business intelligence engineer student</h3>
-<h4 img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..." >
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F421016265163019831%2F&psig=AOvVaw3rfoU1MbT5bybspsxcJF_w&ust=1692023403658000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCizcns2YADFQAAAAAdAAAAABA4" alt="asmabouraoui" /> </p>
+<h4 img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F421016265163019831%2F&psig=AOvVaw3rfoU1MbT5bybspsxcJF_w&ust=1692023403658000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCizcns2YADFQAAAAAdAAAAABA4" >
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asmabouraoui&label=Profile%20views&color=0e75b6&style=flat" alt="asmabouraoui" /> </p>
 
 - 🔭 I’m currently working on **Google data analytics certificate**
 
