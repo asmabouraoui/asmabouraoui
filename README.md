@@ -3,11 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.pixilart.com/photos/orginal/6cd473f2bd5f695.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmabouraoui&label=Profile%20views&color=0e75b6&style=flat" alt="asmabouraoui" /> </p>
 
-- 🔭 Discovering Salesforce
+- 🔭 Working with Salesforce
 
-- 🌱 I’m currently learning **Data analytics**
+- 🌱 I’m currently learning **Solaire Photovoltaïque field**
 
-- 📫 How to reach me **asma.Bouraoui@esprit.tn**
+- 📫 How to reach me **2001asmaBouraoui@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
